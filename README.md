@@ -1,0 +1,21 @@
+## Regular Expression to NFA
+
+### Aim
+To convert a given Regular Expression into a Non-Deterministic
+Finite Automaton (NFA).
+
+### Description
+This program takes a regular expression as input and constructs
+an equivalent NFA.
+
+### Algorithm
+1. Read the regular expression
+2. Create start state
+3. Generate transitions for each symbol
+4. Mark final state as accept state
+
+### Language Used
+Python
+
+### Output
+Displays start state, accept state, and NFA transitions.
